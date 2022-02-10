@@ -1,0 +1,2 @@
+this is awesome.
+i am starting to learn git.
